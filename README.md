@@ -3,9 +3,7 @@ This repository is for SLICE engine distribution
 
 # SLICE Framework MacOSX Distribution Repository #
 > This is SLICE Engine distribution repository.
-
-> SLICE patform consists of Framework and Engine.
->> SLICE engine is run on the edge devices and the software modules from the repository runs on the engine. 
+> SLICE engine is run on the edge devices and the software modules from the repository runs on the engine. 
 
 ## Structure of SLICE github Repository ##
 > We devide our source code based on the following categories..
