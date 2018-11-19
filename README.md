@@ -1,5 +1,6 @@
 # SLICE Engine Distribution Repository #
 > This is SLICE Engine distribution repository.
+
 > SLICE engine is run on the edge devices and the software modules from the repository runs on the engine. 
 
 ## Structure of SLICE github Repository ##
