@@ -15,5 +15,3 @@
 >> SLICE Engine distribution (this) :: [slice-engine-dist](https://github.com/slice-project/slice-engine-dist.git)
 
 >> SLICE Example implementations :: [slice-examples](https://github.com/slice-project/slice-examples)
-
-## Getting Started ##
